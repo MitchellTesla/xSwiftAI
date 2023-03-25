@@ -1,5 +1,3 @@
-# Internet-of-Things
-
 # NeuralNet - SwiftAI
 This is the NeuralNet module for the Swift AI project. Full details on the project can be found in the [main repo](https://github.com/Swift-AI/Swift-AI). This is an experimental project extension of the master/main repository. 
 
